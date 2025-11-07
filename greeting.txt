@@ -1,2 +1,4 @@
 good morning
-
+today is friday
+I am attending git tranning
+in that trainning i learned about reset
